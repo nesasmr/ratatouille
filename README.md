@@ -11,7 +11,7 @@ It was an experiment, mostly a search for a way to produce melodies in just into
 credits
 
 ## For audio examples
-You'll find album at https://nicoloscolieri.bandcamp.com/album/ratatouille. It is a gathering of the little recordings I made while I was developing the patch. I ran the pitches out to the hertz inputs of multiple osc~ objects, sometimes feeding them back into one another, combining intervals, sequenced ratios, the fundamental... After adding reverb in Ableton, I bounced the tracks to a cassette tape, then digitized the tape.
+You'll find an album at https://nicoloscolieri.bandcamp.com/album/ratatouille - a gathering of the little recordings I made while I was developing the patch. I ran the pitches out to the hertz inputs of multiple osc~ objects, sometimes feeding them back into one another, combining intervals, sequenced ratios, the fundamental... After adding reverb in Ableton, I bounced the tracks to a cassette tape, then digitized the tape.
 
 ## Installation
 To run this software, you'll need to have Pure Data installed. PD can be downloaded at https://puredata.info/downloads/pure-data
