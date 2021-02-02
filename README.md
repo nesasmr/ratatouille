@@ -8,7 +8,8 @@ As the sequencer rolls along, the integers change, sometimes at different rates,
 The two channels can be used as a left and right voice, or a bass and treble. The ratios need to be compared to a pitch value before they can be to be sent to an oscillator, so also accessible are the fundamental frequency tones, as drones.
 
 It was an experiment, mostly a search for a way to produce melodies in just intonation without having to program all the scales, but it turned into something really fun, and some of the idiosyncrasies have brought up sounds of bagpipes, bells, lots of unexpected things.
-credits
+
+<img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250">
 
 ## For audio examples
 You'll find an album at https://nicoloscolieri.bandcamp.com/album/ratatouille - a gathering of the little recordings I made while I was developing the patch. I ran the pitches out to the hertz inputs of multiple osc~ objects, sometimes feeding them back into one another, combining intervals, sequenced ratios, the fundamental... After adding reverb in Ableton, I bounced the tracks to a cassette tape, then digitized the tape.
