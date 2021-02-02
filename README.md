@@ -9,7 +9,7 @@ The two channels can be used as a left and right voice, or a bass and treble. Th
 
 It was an experiment, mostly a search for a way to produce melodies in just intonation without having to program all the scales, but it turned into something really fun, and some of the idiosyncrasies have brought up sounds of bagpipes, bells, lots of unexpected things.
 
-<img src="https://github.com/nesasmr/ratatouille/blob/main/Screen%20Shot%202021-02-01%20at%2012.31.31%20PM.png" width="250">
+<img src="https://github.com/nesasmr/ratatouille/blob/main/Screen%20Shot%202021-02-01%20at%2012.31.31%20PM.png">
 
 ## For audio examples
 You'll find an album at https://nicoloscolieri.bandcamp.com/album/ratatouille - a gathering of the little recordings I made while I was developing the patch. I ran the pitches out to the hertz inputs of multiple osc~ objects, sometimes feeding them back into one another, combining intervals, sequenced ratios, the fundamental... After adding reverb in Ableton, I bounced the tracks to a cassette tape, then digitized the tape.
