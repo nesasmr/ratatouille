@@ -1,7 +1,7 @@
-# ratatouille
-## Pure Data patch, pythagorean ratio pitch sequencer, ratatouille~.pd
+# ratatouille~
+## a Pure Data abstraction, pythagorean ratio pitch sequencer, ratatouille~.pd
 
-The patch is a two-channel integer sequencer, each channel with two rows of low whole numbers that are compared to one another using the same mathematics Pythagoras did to explain just intonation.
+A two-channel integer sequencer, each channel with two rows of low whole numbers that are compared to one another using the same mathematics Pythagoras did to explain just intonation.
 
 As the sequencer rolls along, the integers change, sometimes at different rates, and they change ratio relationship to each other. They can be locked to one octave, slewed for ornamentation, divided, offset.
 
